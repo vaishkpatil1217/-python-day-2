@@ -1,0 +1,4 @@
+no = [100, 200, 300, 400, 500]
+
+no.reverse()       # reverse
+print(no)
